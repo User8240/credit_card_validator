@@ -66,14 +66,3 @@ Expected Output: _["1", "2", "8", "8", "0", "3", "6", "0"]_
 Code: _stringWithSpaces("4102080880435620");_
 
 Expected Output: _["2", "4", "16", "16", "0", "6", "12", "0"]_
-
-----------------------------------------------------------------------
-
-
-
-**Test:** _"It will add 'way' to the end of words that begin with an array of vowels."_
-
-Code: _pigLatin("u");_
-
-Expected Output: _"uway"_
-
